@@ -1,7 +1,7 @@
 - Name: CarsonBex
-  Profession: Cyber Security
-    Interest: DevOps
-  Learning:
+  - Profession: Cyber Security
+    - Interest: DevOps
+  - Learning:
     - Python
     - Kubernetes
     - CI/CD
