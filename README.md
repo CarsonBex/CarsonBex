@@ -4,10 +4,12 @@
   - Learning:
     - Python
     - Kubernetes
+    - Ansible
+    - Terraform
     - CI/CD
-    - Go
     - AWS
     - Git
+    - Go
 
 <!---
 CarsonBex/CarsonBex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
